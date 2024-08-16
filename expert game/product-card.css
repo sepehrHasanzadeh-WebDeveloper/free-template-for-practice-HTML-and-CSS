@@ -1,0 +1,55 @@
+
+.intro {
+    padding: 50px;
+    color: black;
+}
+
+.title {
+    font-size: 30px;
+}
+
+.start-btn {
+    all: unset;
+    font-size: 20px;
+    border: 1px solid white;
+    padding: 10px 15px;
+    border-radius: 5px;
+    margin-top: 20px;
+    font-weight: bold;
+    transition: all 0.5s;
+    background: linear-gradient(to top right, darkgreen, #7fff00);
+    color: white;
+    margin-bottom: 20px;
+}
+.start-btn:hover {
+    background: linear-gradient(to top right, darkgreen, #7fff00);
+    color: #4a4a4a;
+}
+section i {
+    color: green;
+    font-size: 25px;
+}
+button i {
+    color: white;
+}
+button i:hover {
+    color: #4a4a4a;
+}
+.master {
+    direction: rtl;
+    height: auto;
+    width: auto;
+    margin: 0 10px;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+}
+
+.center {
+    align-items: center;
+}
+.text-center {
+    text-align: right;
+    padding: 40px 0;
+}
+.border {
+    border-radius: 20px;
+}
